@@ -1,1 +1,32 @@
+body {
+	font-family:sans-serif;
+}
+.container {
+	width:1000px;
+	background:transparent;
+	position:relative;
+	margin:0 auto;
+	font-size:1.45em;
+	margin-bottom:200px;
+}
 
+.float-right {
+	float:right;
+}
+.image-row {
+}
+
+.image-row ul li {
+	display:inline-block;
+	margin:35px;
+	position:relative;
+	width:150px;
+	height:60px;
+	text-align:center;
+}
+
+.image-row ul li img {
+}
+#top-row {
+	margin-top:100px;
+}
